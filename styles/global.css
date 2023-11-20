@@ -1,0 +1,32 @@
+html {
+        box-sizing: border-box;
+        --bg-color: lightsalmon;
+
+}
+
+.navbar-nav .nav-link.active{
+        : orange;
+}
+
+body{
+    background: var(--bg-color);
+}
+
+.active {
+    font-weight: bold;
+}
+
+/* .card{ */
+    /* background-image: url(/pictures/rainforest.gif); */
+    /* background-size: 500px;
+    color: rgb(240, 161, 16);
+    font-style: italic;
+    font-weight: bolder;
+    margin: auto;
+   
+    text-align: center;
+    font-size: 35px;
+   
+    max-width: 500;
+    ;
+} */

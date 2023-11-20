@@ -1,0 +1,14 @@
+.card{
+    background-image: url(/pictures/rainforest.gif);
+    background-size: 500px;
+    color: rgb(240, 161, 16);
+    font-style: italic;
+    font-weight: bolder;
+    margin: auto;
+   
+    text-align: center;
+    font-size: 35px;
+   
+    max-width: 500;
+    ;
+}
